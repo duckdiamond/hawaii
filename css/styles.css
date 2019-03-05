@@ -1,13 +1,21 @@
-body {
+* {
     margin: 0;
     padding: 0;
-    
+    /* background: #000000; */
+    /* background-color: #FFFFFF; */
     }
-    #footer{
+
+#footer{
         background: linear-gradient(0deg,#1c3643,#273b47 25%,#1e5372);
         background-color: red;
       }
       
-      #footer a{
+#footer a{
         color: #FFFFFF;
       }
+header img {
+        width: 80px;
+      }
+.text-platzi{
+    color: #97c93e !important;
+}
