@@ -1,0 +1,17 @@
+body {
+margin: 0;
+padding: 0;
+
+}
+.col{
+    height: 100px;
+    color: black;
+    
+    
+}
+.row div{
+    background-color: #ffd32a;
+    border: 1px solid #ffffff;
+    color: #ecf0f1;
+    height: 100px;
+  }
